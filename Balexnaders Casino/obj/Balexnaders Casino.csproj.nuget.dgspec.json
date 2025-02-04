@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Alexander.bolander\\Documents\\Programering 1\\Balexnaders Casino\\Balexnaders Casino\\Balexnaders Casino.csproj": {}
+    "C:\\Users\\Alexander.bolander\\Documents\\Programering 1\\Balexnaders Casino\\Balexnaders Casino\\Balexnaders Casino.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Alexander.bolander\\Documents\\Programering 1\\Balexnaders Casino\\Balexnaders Casino\\Balexnaders Casino.csproj": {
+    "C:\\Users\\Alexander.bolander\\Documents\\Programering 1\\Balexnaders Casino\\Balexnaders Casino\\Balexnaders Casino.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Alexander.bolander\\Documents\\Programering 1\\Balexnaders Casino\\Balexnaders Casino\\Balexnaders Casino.csproj",
+        "projectUniqueName": "C:\\Users\\Alexander.bolander\\Documents\\Programering 1\\Balexnaders Casino\\Balexnaders Casino\\Balexnaders Casino.csproj",
         "projectName": "Balexnaders Casino",
-        "projectPath": "c:\\Users\\Alexander.bolander\\Documents\\Programering 1\\Balexnaders Casino\\Balexnaders Casino\\Balexnaders Casino.csproj",
+        "projectPath": "C:\\Users\\Alexander.bolander\\Documents\\Programering 1\\Balexnaders Casino\\Balexnaders Casino\\Balexnaders Casino.csproj",
         "packagesPath": "C:\\Users\\Alexander.bolander\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Alexander.bolander\\Documents\\Programering 1\\Balexnaders Casino\\Balexnaders Casino\\obj\\",
+        "outputPath": "C:\\Users\\Alexander.bolander\\Documents\\Programering 1\\Balexnaders Casino\\Balexnaders Casino\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
