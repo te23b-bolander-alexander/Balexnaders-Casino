@@ -12,3 +12,4 @@ c:\Users\Alexander.bolander\Documents\Programering 1\Balexnaders Casino\Balexnad
 c:\Users\Alexander.bolander\Documents\Programering 1\Balexnaders Casino\Balexnaders Casino\obj\Debug\net8.0\Balexnaders Casino.pdb
 c:\Users\Alexander.bolander\Documents\Programering 1\Balexnaders Casino\Balexnaders Casino\obj\Debug\net8.0\Balexnaders Casino.genruntimeconfig.cache
 c:\Users\Alexander.bolander\Documents\Programering 1\Balexnaders Casino\Balexnaders Casino\obj\Debug\net8.0\ref\Balexnaders Casino.dll
+c:\Users\Alexander.bolander\Documents\Programering 1\Balexnaders Casino\Balexnaders Casino\obj\Debug\net8.0\Balexnaders Casino.sourcelink.json
