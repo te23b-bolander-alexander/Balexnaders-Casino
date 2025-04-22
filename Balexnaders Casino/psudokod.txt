@@ -1,15 +1,25 @@
-Balexanders Casino
-Det bästa Casinot i världen!!!!
+Turnbased strategi spel eller något :/ det är 12 timmar innan detta ska lämnas in :/
 
 
+player hp 
 
-Slots 
-3 spins med 7 olika utgångar 3 samma = 10x 
+enemy hp
 
-Horsebetting
-1, 5 chans man får 5 gånger det man bettar
 
-plinko
-0,5, 2, 10, 100, 1000 
-väljer en mängd bollar som kostar 50 var
+player attack
 
+enemy attack 
+
+player turn first
+
+random damage
+
+
+win by killing enemy
+
+lose by dying to enemy
+
+:))))))))))))))
+
+
+        
