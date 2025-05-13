@@ -2,8 +2,9 @@
 using System.Net.WebSockets;
 using System.Xml.Serialization;
 
+static void Metod()
+{
 
-// A bunch of ints and a random damage generator
 Random rnd = new Random();
 int AlphaHp = 40;
 int SigmaHp = 40;
@@ -30,10 +31,15 @@ if (Alphachoose == "a")
     SigmaHp -= AlphaAttack;
     Console.WriteLine($"The alpha attacked the sigma and did {AlphaAttack} Damage!!! Wowzers");
 }
-else 
+if (Alphachoose == "h") 
 {
     AlphaHp += AlphaHeal;
     Console.WriteLine($"the alpha choose to heal for {AlphaHeal} amount of health");
+}
+//while (Alphachoose != "a" || "h")
+{
+    Console.WriteLine("You have to press a or h");
+      
 }
 
 
@@ -61,12 +67,12 @@ if(SigmaHp > 0)
     }
     else
     {
-        Console.WriteLine("Seems like the Sigma won i mean sigma and smegma are kinda close so it makes sense i guess");//wtf /alex.s
+        Console.WriteLine("Seems like the Sigma won i mean sigma and smegma are kinda close so it makes sense i guess");//wtf /alex.s och jack gisslan
     }
 }
 }
 
 
 
-
+}
 Console.ReadLine();
